@@ -81,11 +81,6 @@ hash = "9b097551a65ab908ba879695c586e2bfff0b34d4c18036dbcbdf5bba52a9bbcd"
 metafile = true
 
 [[files]]
-file = "mods/discord-mc-chat.pw.toml"
-hash = "ba8b5da91075ac957c34a56cf6a3ab34616b6d6c998f59130cc73476012066d4"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
