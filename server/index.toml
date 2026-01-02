@@ -11,11 +11,6 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
-metafile = true
-
-[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
 metafile = true
@@ -43,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
 metafile = true
 
 [[files]]
