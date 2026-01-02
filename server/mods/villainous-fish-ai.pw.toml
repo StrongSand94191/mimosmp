@@ -1,0 +1,13 @@
+name = "Villainous Fish AI"
+filename = "villainousfishai-fabric-1.21.1-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/I3Sx4TFv/versions/QAJExyH4/villainousfishai-fabric-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "daa5cb9b546c7b941e466339b606e1d994d9cb96ef4ebed1354f86020f334c048920eef6e37c01f05e31e6866a281606870a9e811d51fe7c2df3956453247c22"
+
+[update]
+[update.modrinth]
+mod-id = "I3Sx4TFv"
+version = "QAJExyH4"
