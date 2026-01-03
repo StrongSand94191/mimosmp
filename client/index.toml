@@ -31,8 +31,18 @@ hash = "6b84c3f38f229f731df367dfadc5b8eaf9f4c6badfeb626a11e3963570838ff1"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "d46575451d68d82636d1c1ac06d68b647113ae13c881cd27f5f74e10bc7c7bf5"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
 metafile = true
 
 [[files]]
@@ -156,6 +166,11 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "5203b451346d0accdc265d5989824f30c79ad87554a4c462cb7b534d8deb05e7"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "a1f1206514a1311c556b5e5542dac4acc1d239c9dc6120efe7b7495245376cfb"
 metafile = true
@@ -183,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/obscure-tooltips.pw.toml"
+hash = "24c43770e8430d6b88146181cd68ca0ee411ec3b018985bbad2036d9ba2e4af3"
 metafile = true
 
 [[files]]
@@ -233,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9c13a5497b1706986d7cedef548ea030e763c4b3029c8cc397cf9b0c0369f204"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "d1bf7f6b6033b5adcb0e3efe98e66edfb57c1263a10aa364c1fd6242e1252c7a"
 metafile = true
 
 [[files]]
