@@ -206,11 +206,6 @@ hash = "4f81a131bb85aa40ccbfe215d353e0a02d635b48ae456e08401d07320b2eb9c1"
 metafile = true
 
 [[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "17058653782f00f2ef41bf069374ad368007726722ef8bf72aaa304836627b9d"
-metafile = true
-
-[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
 metafile = true
