@@ -201,11 +201,6 @@ hash = "111220278b42866f98ed6c02cb601a010956ded2fcab17e9a0c2fa82c0218d29"
 metafile = true
 
 [[files]]
-file = "mods/slumber.pw.toml"
-hash = "4f81a131bb85aa40ccbfe215d353e0a02d635b48ae456e08401d07320b2eb9c1"
-metafile = true
-
-[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
 metafile = true
